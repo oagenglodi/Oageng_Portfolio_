@@ -30,4 +30,17 @@ A personal memory-saving web application built with HTML, CSS and JavaScript. It
 
 Email: oagenglodi@gmail.com
 
-Thank you for visiting my GitHub profile!
+## 🌐 View My Live Portfolio
+
+[**Click here to visit my portfolio website**](https://oagenglodi.github.io/Oageng_Portfolio_/)
+
+## 🚀 Featured Project
+
+### Digital Memory Jar
+
+A memory-saving web application built with HTML, CSS and JavaScript.
+
+- [Live Demo](https://oagenglodi.github.io/digital-memory-jar/)
+- [Source Code](https://github.com/oagenglodi/digital-memory-jar)
+
+Thank you for visiting my GitHub ptofile! 
